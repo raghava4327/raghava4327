@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghava4327
+- 👋 Hi, I’m Sai Raghava Ithireddy
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning Node and MongoDB
 - 💞️ I’m looking to collaborate on Front End development projects on React
